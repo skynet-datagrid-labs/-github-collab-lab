@@ -1,0 +1,1 @@
+def kate_helper():
